@@ -1,11 +1,9 @@
 <?php
 /**
  * Plugin Name: Update Manager
- * Plugin URI: https://wpbay.com/store/cognitowp/
  * Description: Disable plugin updates at specific versions with notes explaining why updates are disabled.
  * Version: 1.2.0
- * Author: CognitoWP
- * Author URI: https://wpbay.com/store/cognitowp/
+ * Author: Juan Mojica
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: update-manager
