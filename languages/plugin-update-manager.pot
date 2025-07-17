@@ -1,0 +1,172 @@
+# Copyright (C) 2024 CognitoWP
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Update Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wpbay.com/store/cognitowp/\n"
+"Last-Translator: CognitoWP <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-01T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: plugin-update-manager\n"
+
+#. Plugin Name of the plugin
+msgid "Plugin Update Manager"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://example.com/plugin-update-manager"
+msgstr ""
+
+#. Description of the plugin
+msgid "Disable plugin updates at specific versions with notes explaining why updates are frozen."
+msgstr ""
+
+#. Author of the plugin
+msgid "Your Name"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://example.com"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:54
+msgid "Plugin Update Manager"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:55
+msgid "Update Manager"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:89
+msgid "Disable Updates"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:90
+msgid "Enable Updates"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:91
+msgid "Are you sure you want to Enable updates for this plugin?"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:92
+msgid "An error occurred. Please try again."
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:117
+msgid "Enable Updates"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:123
+msgid "Disable Updates"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:144
+msgid "Updates frozen at version"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:167
+msgid "Manage which plugins are frozen at specific versions. Frozen plugins will not receive update notifications."
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:171
+msgid "No plugins are currently frozen."
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:176
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:177
+msgid "Frozen Version"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:178
+msgid "Reason"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:179
+msgid "Frozen Date"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:180
+msgid "Frozen By"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:181
+msgid "Actions"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:198
+msgid "Unknown"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:203
+msgid "Enable"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:213
+msgid "Disable Plugin Updates"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:216
+msgid "Plugin:"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:220
+msgid "Current Version:"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:224
+msgid "Reason for freezing:"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:237
+msgid "Security check failed"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:242
+msgid "You do not have permission to perform this action"
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:253
+msgid "Plugin updates unfrozen successfully."
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:259
+msgid "Failed to Enable plugin updates."
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:286
+msgid "Plugin frozen successfully."
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:290
+msgid "Failed to Disable plugin."
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:314
+msgid "Plugin unfrozen successfully."
+msgstr ""
+
+#: includes/class-plugin-update-manager-admin.php:318
+msgid "Failed to Enable plugin."
+msgstr ""
+
+#: includes/class-plugin-update-manager-updater.php:117
+#, php-format
+msgid "An update to version %1$s is available, but this plugin is frozen at version %2$s."
+msgstr ""
+
+#: includes/class-plugin-update-manager-updater.php:124
+msgid "Reason:"
+msgstr ""
+
+#: includes/class-plugin-update-manager-updater.php:128
+msgid "Manage frozen plugins"
+msgstr ""
