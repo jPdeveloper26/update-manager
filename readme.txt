@@ -1,6 +1,5 @@
 === Update Manager ===
-Contributors: CognitoWP
-Donate link: https://wpbay.com/store/cognitowp/
+Contributors: Juan Mojica
 Tags: updates, plugins, Disable, version control, update management
 Requires at least: 5.0
 Tested up to: 6.8
